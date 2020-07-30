@@ -3,3 +3,6 @@ This repo serves as a quick analysis of compnaies in the US that are dedicated t
 
 ## Initial Hypotheses
 > Most of the companies will be located along the west coast
+
+## Data Sources
+https://www.bestplaces.net/cost_of_living/
